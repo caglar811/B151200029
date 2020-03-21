@@ -1,2 +1,2 @@
 # B151200029
- Nesneye Dayalı programlama 1. Ödevi
+ Nesneye Dayalı Programlama 1. Ödev
